@@ -1,4 +1,4 @@
-# MSc Programming Skills Python predator-prey simulation
+# predator-prey simulation
 
 ## Requirements
 
